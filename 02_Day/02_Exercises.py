@@ -67,7 +67,6 @@ print('El area es:',area_of_circle)
 circum_of_circle = 3.1416 * radius
 print('La circunferencia es:',circum_of_circle)
 
-#lo de sebas
 import math
 radius = float(input("Introduce el radio del círculo: "))
 area = math.pi * radius ** 2
